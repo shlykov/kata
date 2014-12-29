@@ -1,0 +1,23 @@
+
+{
+  "name": "shlykov/kata",
+  "description": "template for TDD katas",
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  },
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "Ilya Shlykov",
+      "email": "iv.shlykov@yandex.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+  },
+  "autoload": {
+    "psr-0": {
+      "Kata": ["src/","test/"]
+    }
+  }
+}
