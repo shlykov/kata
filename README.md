@@ -1,5 +1,5 @@
 # Bootstrap repository for tdd katas
-
+[About katas] (http://codekata.com/)
 ## Using
 
 **Init** 
